@@ -91,7 +91,7 @@ class MenuScreen extends StatelessWidget {
                 child: const Text(
                   'Pick up',
                   style: TextStyle(
-                    fontSize: 16.0,
+                    fontSize: 14.0,
                     color: Colors.black,
                   ),
                 ),
@@ -120,7 +120,7 @@ class MenuScreen extends StatelessWidget {
                 child: const Text(
                   'Delivery',
                   style: TextStyle(
-                    fontSize: 16.0,
+                    fontSize: 14.0,
                     color: Colors.black,
                   ),
                 ),

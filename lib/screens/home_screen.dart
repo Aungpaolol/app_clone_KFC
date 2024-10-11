@@ -418,7 +418,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             horizontal: 40, vertical: 15),
                       ),
                       onPressed: () async {
-                        const url = 'https://kfc.co.th';
+                        const url = 'https://www.kfc.co.th/';
                         if (await canLaunch(url)) {
                           await launch(url);
                         } else {
